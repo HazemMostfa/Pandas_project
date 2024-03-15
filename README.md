@@ -1,7 +1,7 @@
 # Pandas_project
 Solving Real-World Data Analysis Tasks with Python Pandas 
 
-The quastions are :
+The questions are :
 
 1-What is the most popular release year for movies on Netflix?
 2-What year did Netflix add the most content to its platform?
